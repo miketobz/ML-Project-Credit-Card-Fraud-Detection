@@ -5,7 +5,7 @@ Fraud is a major problem for credit card companies, due to the large volume of t
 
 Moreover, fraud detection problems are a type of imbalanced binary classification; where data analysis usually focuses on identifying the rare data(the positive class).
 
-For this particular problem, the machine learning model's performance was measured mainly on the results obtained on the prediction of the positive class; which represent fraudulent transactions. In addition to, a dataset from Kaggle was used for this research; the data consists of credit card transactions that occured over two days in September 2013 by European cardholders. All the details of the crdholders have been anonymized via a Principal Component Analysis(PCA) transform.
+For this particular problem, the machine learning model's performance was measured mainly on the results obtained on the prediction of the positive class; which represent fraudulent transactions. In addition to, a dataset from Kaggle was used for this research; the data consists of credit card transactions that occured over two days in September 2013 by European cardholders. All the details of the cardholders have been anonymized via a Principal Component Analysis(PCA) transform.
 
 Furthermore, each record is classified as class '0'(normal transactions) or class '1'(fraudulent transactions). Specifically, there are 492 fraudulent credit card transactions, out of 284,807 transactions; making a total of about 0.172% of all transactions. This causes an enormous imbalance of the data distributions; therefore, the transactions are hevily skewed towards normal.
 
