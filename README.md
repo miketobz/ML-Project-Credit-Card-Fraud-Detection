@@ -80,7 +80,8 @@ Install my-project with npm
 
 ## Demo
 
-![My Remote Image](https://thumbs.gfycat.com/AcceptablePleasingDutchshepherddog-max-1mb.gif)
+![My Remote Image]([https://thumbs.gfycat.com/AcceptablePleasingDutchshepherddog-max-1mb.gif](https://miro.medium.com/proxy/1*mTTmfdMcFlPtyu8__vRHOQ.gif))
+
 ## Deployment
 
 To deploy this project run
