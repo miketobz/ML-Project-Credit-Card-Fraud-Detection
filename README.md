@@ -93,8 +93,6 @@ To deploy this project run
 
 ## Process
 
-![App Screenshot](https://media.istockphoto.com/photos/machine-learning-abstract-background-image-picture-id1131890380?k=20&m=1131890380&s=612x612&w=0&h=8HNp95L-fQwJsjUzNQdUVWuOvBQTHpk5cWhDGEAb8lI=)
-
 ![App Screenshot](https://assets-global.website-files.com/5eb9845c0972c01cdaec8415/61f1a26341523ccb12097c67_supervised-learning.gif)
 
 
